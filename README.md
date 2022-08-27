@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**Chaitanyap22/Chaitanyap22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>
+  Hey there 👋<br>
+  I'm <span>Chaitanya Pawar</span>
+</h1>
+#### About 🌏
+- I 'm currently perusing my Master's in Computer Science @Stevens Institute of Technology.
+- I'm curious about how things work and often try to learn by breaking them apart.
 
-Here are some ideas to get you started:
+#### Work 🔭
+- Course Assistant at **[Stevens Institute of Technology](https://stevens.edu)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current Interests 🌱
+- **[React](https://reactjs.org)**
+- **[Typescript](https://www.typescriptlang.org/)**
+- **[Tailwind CSS](https://tailwindcss.com)**
+- **[Flutter](https://flutter.dev)**
+
+#### Ask me about 💬
+- Frontend development
+- UI design
+- Software Development
+
+#### Get in touch 📫
+- Personal site: **[chaitanyap.netlify.app](https://chaitanyap.netlify.app)**
+
+**Fun facts ⚡**
+- I occasionally fix computers and cellphones 🔧
+- I enjoy playing Electronic Games 🎮
