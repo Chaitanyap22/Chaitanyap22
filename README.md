@@ -1,9 +1,6 @@
-
-<h1>
-  Hey there 👋<br>
+#Hey there 👋<br>
   I'm <span>Chaitanya Pawar</span>
-</h1>
-### About 🌏
+#### About 🌏
 - I 'm currently perusing my Master's in Computer Science @Stevens Institute of Technology.
 - I'm curious about how things work and often try to learn by breaking them apart.
 
