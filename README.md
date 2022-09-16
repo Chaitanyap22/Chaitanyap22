@@ -1,7 +1,5 @@
-# Hey there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /><br> I'm <span>Chaitanya Pawar</span>
+
+# Hey there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45" alt="Waving hand animated gif"/><br> I'm <span>Chaitanya Pawar</span>
 #### About 🌏
 - I 'm currently perusing my Master's in Computer Science @Stevens Institute of Technology.
 - I'm curious about how things work and often try to learn by breaking them apart.
