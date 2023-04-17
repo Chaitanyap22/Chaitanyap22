@@ -5,7 +5,7 @@
 - I'm curious about how things work and often try to learn by breaking them apart.
 
 #### Work 🔭
-- Course Assistant at **[Stevens Institute of Technology (Fall 2022 Semester)](https://stevens.edu)**.
+- Course Assistant at **[Stevens Institute of Technology](https://stevens.edu)(Fall 2022 Semester)**.
 
 #### Current Interests 🌱
 - **[React](https://reactjs.org)**
