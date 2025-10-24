@@ -1,50 +1,64 @@
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45" alt="Hi 👋"/>, I'm <span style="color:#D4AF37;">Chaitanya Pawar</span></h1>
+<!-- Typing Animation Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Chaitanya+Pawar+👋;Full-Stack+Engineer+%26+Founder+🚀;Building+the+Future+of+POS+%26+Payments+💳" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <em>💡 Founder / Full-Stack Engineer / Product Architect | Bridging Technology + Design + Business</em>
+  <em>💡 Founder • Full-Stack Engineer • Product Architect | Bridging Technology, Design, and Business</em>
 </p>
 
 ---
 
 ### 🎓 Education  
-- 🎓 **Master of Science in Computer Science** – *Stevens Institute of Technology*  
-  *Completed May 2023 (Hoboken, New Jersey)*  
-- 🎯 Focused on **Software Engineering**, **UI/UX Systems**, and **Scalable Architecture**
+- 🎓 **Master of Science in Computer Science** — *Stevens Institute of Technology (May 2023)*  
+  *Hoboken, New Jersey*  
+  Focus: **Software Engineering, UI/UX Systems, Scalable Architecture**
 
 ---
 
 ### 💼 Professional Experience  
 
-#### 🧠 **Co-Founder & Chief Product Engineer — [Laxiera Technologies](https://laxiera.com)** *(2024 – Present)*  
-- Building **AI-powered POS & Payment Processing systems** for restaurants and retailers.  
-- Designing the entire **multi-tenant infrastructure** with Node.js + PostgreSQL + React Native.  
-- Architecting **merchant wallets**, **ACH + card payment rails**, and **Stripe / Adyen integrations**.  
-- Leading a distributed team across design, frontend, backend, and mobile engineering.  
-- Shaping brand direction, investor strategy, and long-term product vision under Cyvian Capital.
+#### 🚀 **Founder & Chief Product Engineer — [Laxiera Technologies](https://laxiera.com)** *(Sep 2025 – Present)*  
+- Building **AI-powered POS & Payment Platforms** for restaurants and retailers.  
+- Architecting a **multi-tenant Node.js + PostgreSQL** infrastructure with Redis, RabbitMQ, and GCP.  
+- Leading design and development of **LaxiPay**, a unified POS + standalone terminal ecosystem.  
+- Overseeing **brand, investor strategy, and global rollout plans**.  
+- Integrated **Stripe, Adyen, and ACH** payment processing with merchant wallet architecture.
 
-#### 💳 **Senior Software Developer / QA Engineer — Sapphire Payment Solution** *(2023 – Present)*  
-- Overseeing all aspects of **POS and payment software development**.  
-- Implemented **ACH billing**, **Stripe CLI testing**, and **invoice automation platforms**.  
-- Created internal **merchant dashboards**, improving operations for >100 businesses.  
-- Managing **technical QA, automation, and integration testing** across React Native + Node.js stack.
+#### 💳 **Senior Software Developer — Sapphire Payment Solution** *(Jul 2025 – Present)*  
+- Developing **merchant portals**, **ACH automation**, and **Stripe Connect** integrations.  
+- Building real-time dashboards using **React Native + Node.js + Firebase**.  
+- Improved transaction flow reliability and end-to-end QA automation.  
+- Supported multiple U.S. merchants in **payment reconciliation and batch reporting**.
 
-#### 🚀 **Founder / Technical Lead — Cyvian Capital** *(2023 – Present)*  
-- Established a **fintech holding company** to manage subsidiaries in POS & payment processing.  
-- Built foundational architecture for **Cyvian POS**, **Cyvian Dashboard**, and **Cyvian Invoicing**.  
-- Defined RBAC permissions, multi-processor fee engines, and AI-assisted merchant tools.
+#### 🧠 **Software Developer / QA Engineer — Vada Technologies** *(Jun 2023 – Jul 2025)*  
+- Engineered **POS systems**, **hardware integrations**, and **retail automation** tools.  
+- Contributed to multi-device compatibility using **React, TypeScript, and Flutter**.  
+- Tested and optimized API integrations for **card terminals** and **cloud sync** systems.  
+- Coordinated QA and deployment for restaurant clients across **New Jersey and Connecticut**.  
 
-#### 🎓 **Course Assistant — Stevens Institute of Technology** *(Fall 2022 Semester)*  
-- Assisted professors and students in advanced programming courses.  
-- Conducted code reviews, graded assignments, and supported lab sessions.
+#### 🎓 **Course Assistant — Stevens Institute of Technology** *(Fall 2022)*  
+- Assisted students with programming assignments and project debugging.  
+- Supported faculty in grading, lab sessions, and technical workshops.
+
+---
+
+### 🏆 Key Highlights  
+- 💳 **Developed 3 full-stack POS platforms** — covering mobile, web, and standalone terminals.  
+- 🧾 **Built ACH invoicing system** used for automated business payments.  
+- 🤖 **Prototyped AI merchant assistant** to predict sales trends and optimize pricing.  
+- ⚙️ **Architected scalable Node.js backend** with role-based access, event queues, and caching.  
+- ☁️ **Deployed cloud infrastructure** on Google Cloud with Docker and CI/CD pipelines.  
+- 👥 **Led cross-functional engineering teams** to ship real products under startup deadlines.
 
 ---
 
 ### 🌱 Current Focus  
-- ⚛️ React / React Native / Next.js  
-- 🟦 TypeScript & Node.js (Express + Sequelize)  
-- 🧠 AI-driven recommendation systems for merchants  
-- 💳 Stripe, Adyen, Moov integrations for card and ACH processing  
-- ☁️ Cloud deployments with Docker and Google Cloud  
+- ⚛️ **React / React Native / Next.js**  
+- 🟦 **TypeScript & Node.js (Express + Sequelize)**  
+- 🧠 **AI + Automation in Fintech**  
+- 💳 **Stripe, Adyen, and ACH Integration Systems**  
+- ☁️ **Google Cloud Deployments, Dockerized Environments**
 
 ---
 
@@ -65,27 +79,27 @@
 ![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=flat-square&logo=stripe&logoColor=fff)
 ![Adyen](https://img.shields.io/badge/-Adyen-0ABF53?style=flat-square&logo=adyen&logoColor=fff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=fff)
 
 ---
 
 ### 💬 Ask Me About  
-- Modern Frontend Architecture & Design Systems  
-- Payment Processing (APIs, Terminals, ACH)  
-- POS Hardware Integrations & IoT Edge Setup  
-- AI Assistants for business automation  
-- Startup scaling & product execution (Elon-style focus 🧠)
+- Modern Frontend & Design Systems  
+- POS Hardware Integrations  
+- Payment APIs (ACH, Stripe, Adyen)  
+- AI-Driven Business Automation  
+- Scalable Startup Architecture  
 
 ---
 
 ### ⚡ Fun Facts  
 - 🧩 I fix computers & phones for fun  
-- 🎮 Gamer at heart | Strategy & Story games  
-- ☕ Fueled by coffee + curiosity  
-- 🌍 Dreaming big — building global merchant ecosystems  
+- 🎮 Gamer at heart | Strategy & Simulation genres  
+- ☕ Fueled by coffee and curiosity  
+- 🌍 Building global merchant ecosystems from the ground up  
 
 ---
 
@@ -102,6 +116,13 @@
 
 ---
 
+### 🏅 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chaitanyap22&theme=onedark&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 🌐 Connect With Me  
 <p align="center">
   <a href="https://chaitanyap.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-Website-000000?style=flat&logo=vercel&logoColor=white"/></a>
@@ -110,9 +131,13 @@
   <a href="https://github.com/Chaitanyap22"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chaitanyap22&color=gold&style=flat-square" alt="Profile views"/>
+</p>
+
 ---
 
 <p align="center">
-  <i>"Turning ideas into interfaces and code into experiences that empower businesses globally."</i><br/>
+  <i>"Turning ideas into interfaces and code into experiences that empower merchants worldwide."</i><br/>
   <b>— Chaitanya Pawar</b>
 </p>
