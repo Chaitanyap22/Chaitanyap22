@@ -9,6 +9,13 @@
 
 ---
 
+### 🧩 Featured — Open Source  
+
+**[Markwright](https://github.com/Ava-Evan-Technologies/markwright)** — a fast, fully-offline **Markdown editor for macOS**: live preview, diagrams (Mermaid/UML), math (KaTeX), sheet-music playback, PDF/HTML export, and **on-device Apple Intelligence** (Improve · Summarize · Continue Writing). Built in **Swift / SwiftUI**, no network required.  
+`Swift` · `SwiftUI` · `WKWebView` · `Foundation Models` · **MIT**
+
+---
+
 ### 🎓 Education  
 - 🎓 **Master of Science in Computer Science** — *Stevens Institute of Technology (May 2023)*  
   *Hoboken, New Jersey*  
@@ -18,10 +25,11 @@
 
 ### 💼 Professional Experience  
 
-#### 🚀 **Founder & Chief Product Engineer — [Laxiera Technologies](https://laxiera.com)** *(Sep 2025 – Present)*  
+#### 🚀 **Founder & Chief Product Engineer — [Ava Evan Technologies](https://github.com/Ava-Evan-Technologies)** *(Sep 2025 – Present)*  
 - Building **AI-powered POS & Payment Platforms** for restaurants and retailers.  
 - Architecting a **multi-tenant Node.js + PostgreSQL** infrastructure with Redis, RabbitMQ, and GCP.  
-- Leading design and development of **LaxiPay**, a unified POS + standalone terminal ecosystem.  
+- Leading design and development of **Ava Evan Pay**, a unified POS + standalone terminal ecosystem.  
+- Author of **[Markwright](https://github.com/Ava-Evan-Technologies/markwright)** — an open-source (MIT) macOS Markdown editor in **Swift/SwiftUI** with on-device **Apple Intelligence**.  
 - Overseeing **brand, investor strategy, and global rollout plans**.  
 - Integrated **Stripe, Adyen, and ACH** payment processing with merchant wallet architecture.
 
@@ -55,8 +63,9 @@
 
 ### 🌱 Current Focus  
 - ⚛️ **React / React Native / Next.js**  
+- 🍎 **Swift / SwiftUI — native macOS & iOS**  
+- 🧠 **On-device AI with Apple Foundation Models (Apple Intelligence)**  
 - 🟦 **TypeScript & Node.js (Express + Sequelize)**  
-- 🧠 **AI + Automation in Fintech**  
 - 💳 **Stripe, Adyen, and ACH Integration Systems**  
 - ☁️ **Google Cloud Deployments, Dockerized Environments**
 
@@ -65,6 +74,8 @@
 ### 🧰 Tech Stack  
 
 #### 💻 Languages & Frameworks  
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=fff)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
@@ -81,6 +92,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=fff)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=fff)
 
