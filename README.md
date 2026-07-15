@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Chaitanya+Pawar+👋;Full-Stack+Engineer+%26+Founder+🚀;Building+the+Future+of+POS+%26+Payments+💳" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Chaitanya+Pawar+👋;Full-Stack+Engineer+%26+Founder+🚀;Building+the+Future+of+POS+%26+Payments+💳;Native+macOS+%26+iOS+Apps+with+SwiftUI+🍎;Open-Source+%26+On-Device+AI+🧠" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -42,11 +42,12 @@
 - Improved transaction flow reliability and end-to-end QA automation.  
 - Supported multiple U.S. merchants in **payment reconciliation and batch reporting**.
 
-#### 🧠 **Software Developer / QA Engineer — Vada Technologies** *(Jun 2023 – Jul 2025)*  
-- Engineered **POS systems**, **hardware integrations**, and **retail automation** tools.  
-- Contributed to multi-device compatibility using **React, TypeScript, and Flutter**.  
-- Tested and optimized API integrations for **card terminals** and **cloud sync** systems.  
-- Coordinated QA and deployment for restaurant clients across **New Jersey and Connecticut**.  
+#### 🧠 **Software Developer — Vada Technologies LLC** *(Feb 2023 – Jul 2025)*  
+*Clinton Twp, Michigan*  
+- Built responsive UIs with **ReactJS** and **Svelte**; optimized a POS UI for **+30% responsiveness** and **+25% order accuracy**.  
+- Integrated **Google Cloud Vision** OCR with frontend tools, later enhanced with **TensorFlow** parsing.  
+- Delivered seamless **REST** and **GraphQL** API integrations with backend teams.  
+- Built a real-time, AI/NLP-powered product-comparison UI and mentored three junior devs.  
 
 #### 🎓 **Teaching Assistant — Stevens Institute of Technology** *(Aug 2022 – Dec 2022)*  
 - Assisted in delivering **CS501B – Introduction to Java** under Prof. In Suk Jang.  
@@ -69,6 +70,14 @@
 - ⚙️ **Architected scalable Node.js backend** with role-based access, event queues, and caching.  
 - ☁️ **Deployed cloud infrastructure** on Google Cloud with Docker and CI/CD pipelines.  
 - 👥 **Led cross-functional engineering teams** to ship real products under startup deadlines.
+
+---
+
+### 🛠️ Notable Projects  
+
+- 🍎 **[Markwright](https://github.com/Ava-Evan-Technologies/markwright)** — open-source macOS Markdown editor (Swift/SwiftUI, on-device Apple Intelligence, MIT).  
+- 📱 **5 Star Price — iOS App** *(2023 – 2024)* — Swift/SwiftUI app with a Firebase + MongoDB backend, **Google Cloud Vision OCR** + NLP invoice parsing, and an AI-driven real-time price-comparison engine on a Kubernetes microservices architecture.  
+- 🌐 **Personal Portfolio** *(Next.js + Tailwind)* — [chaitanyap.tech](https://www.chaitanyap.tech) with CI/CD on Vercel.
 
 ---
 
