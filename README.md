@@ -17,9 +17,12 @@
 ---
 
 ### 🎓 Education  
-- 🎓 **Master of Science in Computer Science** — *Stevens Institute of Technology (May 2023)*  
+- 🎓 **Master of Science in Computer Science** — *Stevens Institute of Technology (2022 – 2023)*  
   *Hoboken, New Jersey*  
-  Focus: **Software Engineering, UI/UX Systems, Scalable Architecture**
+  Focus: **AI, Cloud Computing, DevOps, and Software Security**
+- 🎓 **Bachelor of Engineering in Electronics** — *Pillai College of Engineering (2017 – 2021)*  
+  *New Panvel, Maharashtra, India*  
+  Focus: **Embedded Systems, IoT, Software Development, and Cybersecurity**
 
 ---
 
@@ -45,9 +48,17 @@
 - Tested and optimized API integrations for **card terminals** and **cloud sync** systems.  
 - Coordinated QA and deployment for restaurant clients across **New Jersey and Connecticut**.  
 
-#### 🎓 **Course Assistant — Stevens Institute of Technology** *(Fall 2022)*  
-- Assisted students with programming assignments and project debugging.  
-- Supported faculty in grading, lab sessions, and technical workshops.
+#### 🎓 **Teaching Assistant — Stevens Institute of Technology** *(Aug 2022 – Dec 2022)*  
+- Assisted in delivering **CS501B – Introduction to Java** under Prof. In Suk Jang.  
+- Designed and graded assignments covering OOP, data structures, and algorithms.  
+- Mentored students on machine-learning projects; ran hands-on Java & Python workshops.
+
+#### 🍎 **Computer Teacher — Little Angels English Medium School** *(Jun 2016 – May 2021)*  
+*Wada, Maharashtra, India*  
+- Taught Python, Java, data structures, web development, and cloud-computing concepts to high-school students.  
+- Designed interactive coding exercises and real-world projects for practical learning.  
+- Led hackathons, coding competitions, and mentorship programs to prepare students for tech careers.  
+- Built an interactive online learning platform, improving student engagement by **40%**.
 
 ---
 
